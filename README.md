@@ -6,6 +6,19 @@
 
 **Before starting the repo, go through the Contribution Guidelines [here](docs/CONTRIBUTION_GUIDELINES.md).**
 
+**Tech and Tools.**
+1. React [https://react.dev](https://react.dev)
+2. SCSS [https://sass-lang.com/](https://sass-lang.com/)
+3. NX [https:nx.dev](https://nx.dev)
+4. Redux Saga [https://redux-saga.js.org/](https://redux-saga.js.org/)
+5. Axios [https://axios-http.com/docs/intro](https://axios-http.com/docs/intro)
+6. Typescript [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
+
+**Project Details:**
+
+ * Project Type: [Monorepo](https://www.atlassian.com/git/tutorials/monorepos)
+ * Advantages of Monorepo are [here](https://circleci.com/blog/monorepo-dev-practices/).
+
 To start off,
 
 1. Install Node JS in your system. 
