@@ -1,9 +1,5 @@
-
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Final-Year-Project-2023/Project-Phase-1-FrontEnd/tree/develop.svg?style=svg&circle-token=91b248c10f8e3bab21ab3c81b8cc74aced3bfbaf)](https://dl.circleci.com/status-badge/redirect/gh/Final-Year-Project-2023/Project-Phase-1-FrontEnd/tree/develop)
-
 # The Hungry Soul
-
-# The Hungry Soul FrontEnd
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Final-Year-Project-2023/Project-Phase-1-FrontEnd/tree/develop.svg?style=svg&circle-token=91b248c10f8e3bab21ab3c81b8cc74aced3bfbaf)](https://dl.circleci.com/status-badge/redirect/gh/Final-Year-Project-2023/Project-Phase-1-FrontEnd/tree/develop)
 
 **Before starting the repo, go through the Contribution Guidelines [here](docs/CONTRIBUTION_GUIDELINES.md).**
 
