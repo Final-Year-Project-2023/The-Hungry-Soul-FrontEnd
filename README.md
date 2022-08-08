@@ -2,9 +2,11 @@
 
 # The Hungry Soul
 
-# The Hungry Soul Backend
+# The Hungry Soul FrontEnd
 
 **Before starting the repo, go through the Contribution Guidelines [here](docs/CONTRIBUTION_GUIDELINES.md).**
+
+**Join the Slack Channel [here](https://join.slack.com/t/newworkspace-ehc8313/shared_invite/zt-1dpeo32lj-dJouZW1LKoDm_o~YfG1v8g).**
 
 **Tech and Tools.**
 1. React [https://react.dev](https://react.dev)
