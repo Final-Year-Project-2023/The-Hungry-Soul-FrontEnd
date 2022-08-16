@@ -69,7 +69,7 @@ Read more:
 
 #### How the application is deployed :
 
-<img src="./docs/assets/deployment.png">
+<img src="./docs/assets/deployment_workflow.png">
 
 **Before starting with the repo, go through the following:**
 
