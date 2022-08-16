@@ -26,7 +26,7 @@ aliases:
         mkdir -p artifacts
         npm install
   - &save-cache
-    save-cache:
+    save_cache:
       paths:
         - node_modules
       key: app-{{ checksum "package.json"}}
