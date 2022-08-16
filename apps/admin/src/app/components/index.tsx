@@ -1,7 +1,3 @@
 /* PLOP_INJECT_IMPORT */
 
-
-
-export { 
-    /* PLOP_INJECT_EXPORT */
-};
+export /* PLOP_INJECT_EXPORT */ {};
