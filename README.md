@@ -4,7 +4,7 @@
 
 ### Our Story:
 
-The Hungry Soul was created as a final year project for B.Tech by [Dibyajyoti Mishra](<[https://linkedin](https://linkedin.com/in/dibyajyotim)>), [Abhilash C](https://www.linkedin.com/in/abhilashc1), [Srikar V](https://www.linkedin.com/in/srikar-v-8b6619222/), [Saketh D](https://www.linkedin.com/in/saketh-dodda-ba83b8203).
+The Hungry Soul was created as a final year project for B.Tech by [Dibyajyoti Mishra](https://linkedin.com/in/dibyajyotim), [Abhilash C](https://www.linkedin.com/in/abhilashc1), [Srikar V](https://www.linkedin.com/in/srikar-v-8b6619222/), [Saketh D](https://www.linkedin.com/in/saketh-dodda-ba83b8203).
 
 The whole aim of the project was to completely change the way people order their food at the college canteen. Prior to this, there used to be a cashier at the canteen who used to have a hard time managing so many buyers at the same time and also managing the cash and the inventory. Therefore, we decided to take it up as one of the problem.
 
