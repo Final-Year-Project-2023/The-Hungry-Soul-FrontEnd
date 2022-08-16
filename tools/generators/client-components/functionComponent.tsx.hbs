@@ -1,0 +1,47 @@
+import React from "react";
+{{#if wantRedux}}
+import { connect } from "react-redux";
+{{/if}}
+import "./styles.scss";
+
+interface I{{name}}Props {
+  
+}
+
+interface State {
+
+}
+
+
+const {{pascalCase name}} = (props: I{{name}}Props) => {
+  return (
+      <div>{{pascalCase name}}</div>
+  );
+}
+
+{{#if wantRedux}}
+const mapStateToProps = (state: State) => {
+  return {
+    {{#each props}}
+    {{name}}: state.{{name}},
+    {{/each}}
+  };
+}
+
+const mapDispatchToProps = (dispatch: any) => {
+  return {
+    {{#each props}}
+    {{name}}: (value: {{type}}) => {
+      dispatch({
+        type: "{{name}}",
+        payload: value
+      });
+    }
+    {{/each}}
+  };
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)({{name}});
+{{else}}
+export default {{name}};
+{{/if}}

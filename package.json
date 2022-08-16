@@ -9,14 +9,20 @@
     "clean": "rimraf ./node_modules",
     "format": "prettier --write 'apps/**/*.{js,jsx,ts,tsx}'",
     "prepare": "husky install",
-    "lint": "eslint 'apps/**/*.{js,jsx,ts,tsx}'"
+    "lint": "eslint 'apps/**/*.{js,jsx,ts,tsx}'",
+    "generate": "plop --plopfile tools/generators/index.js"
   },
   "private": true,
   "dependencies": {
     "core-js": "^3.6.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-redux": "^8.0.2",
     "react-router-dom": "6.3.0",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.2.0",
     "regenerator-runtime": "0.13.7",
     "tslib": "^2.3.0"
   },
