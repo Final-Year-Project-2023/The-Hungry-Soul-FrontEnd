@@ -7,9 +7,9 @@
     "build": "nx build",
     "test": "nx test",
     "clean": "rimraf ./node_modules",
-    "format": "prettier --write 'apps/**/*.{js,jsx,ts,tsx}'",
+    "format": "prettier --write ./apps/admin/src ./apps/client/src",
     "prepare": "husky install",
-    "lint": "eslint 'apps/**/*.{js,jsx,ts,tsx}'",
+    "lint": "eslint ./apps/admin/src ./apps/client/src",
     "generate": "plop --plopfile tools/generators/index.js"
   },
   "private": true,
